@@ -1,0 +1,9 @@
+PORT=5000
+MONGO_URI=mongodb://jayasriganesan9840_db_user:JayasriMango2026DB@ac-xaq51rx-shard-00-00.9cfmc2w.mongodb.net:27017,ac-xaq51rx-shard-00-01.9cfmc2w.mongodb.net:27017,ac-xaq51rx-shard-00-02.9cfmc2w.mongodb.net:27017/?ssl=true&replicaSet=atlas-53rn4v-shard-0&authSource=admin&appName=ai-faq-assistant-api-cluster
+JWT_SECRET=change_this_to_a_long_random_secret
+JWT_EXPIRES_IN=1d
+GEMINI_API_KEY=AQ.Ab8RN6JaWI5NnLbfsBGfE3xHTPu-22wkzJz0nDv8vx0ngXQPZA
+GEMINI_MODEL=gemini-3.6-flash
+CLIENT_URL=*
+ADMIN_EMAIL=admin@example.com
+ADMIN_PASSWORD=change_this_admin_password
